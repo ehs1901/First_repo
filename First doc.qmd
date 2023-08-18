@@ -3,6 +3,8 @@ title: "first_doc"
 format: html
 editor: visual
 bibliography: my_bib.bib
+keep-tex: true
+keep-md: true 
 ---
 
 ## Quarto
